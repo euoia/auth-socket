@@ -16,5 +16,13 @@
     "ws": "~0.4.25",
     "websocket-stream": "~0.1.0",
     "doorknob": "~2.0.0"
+  },
+  "devDependencies": {
+    "levelup": "~0.17.0",
+    "level-js": "~1.0.8",
+    "level-sublevel": "~5.1.1",
+    "level-replicate": "~1.1.6",
+    "persona-id": "~0.1.0",
+    "browser-request": "~0.3.1"
   }
 }
