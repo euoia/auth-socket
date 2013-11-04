@@ -1,5 +1,4 @@
 var WebSocketServer = require('ws').Server
-var websocket = require('websocket-stream')
 var http = require('http')
 var path = require('path')
 var doorknobServer = require('doorknob/server')
